@@ -5,9 +5,9 @@ I am graduated(BE(cs)) and I have an experience in e-commerce publicashes,IT ret
 
 My dream is to be software developer.I am in process of learning web development with guidences of tanay pratap and also completed some of the things like:
 1. github
-1.repl.it
-1.node.js
-1.CHALK
-1.conditions(if,eles.and for)
+2. repl.it
+3. node.js
+4. CHALK
+5. Conditions(if,eles.and for)  
 
      
